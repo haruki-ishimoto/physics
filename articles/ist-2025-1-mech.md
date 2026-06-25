@@ -58,3 +58,7 @@ $$
 $$
 \therefore I\omega \dot{\phi} = mgR \iff \dot{\phi} = \frac{mgR}{I\omega}
 $$
+
+
+# (5)
+

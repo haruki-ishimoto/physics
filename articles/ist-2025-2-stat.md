@@ -10,9 +10,9 @@ published: true
 (理想Fermi気体・理想Bose)の一粒子分布関数は
 
 $$
-f_{\mathrm{FD}} = \frac{1}{e^{\beta\epsilon} - 1}
+f_{\mathrm{FD}} = \frac{1}{e^{\beta(\epsilon-\mu)} + 1}
 , \quad
-f_{\mathrm{FD}} = \frac{1}{e^{\beta\epsilon} + 1}
+f_{\mathrm{FD}} = \frac{1}{e^{\beta(\epsilon-\mu)} - 1}
 $$
 
 で与えられる．
